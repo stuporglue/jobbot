@@ -20,7 +20,6 @@ Pet Peeves
     - I don't want to apply for a job that has been posted for a month
 * Not letting me sort by date posted
     - If there are 50 results, and you only sort by "relevant" do I really have to look at every job listing and hope to find the new ones? 
-* 
 
 What's in the box
 -----------------
@@ -44,4 +43,5 @@ Screenshots
 -----------
 
 ![Job Bot checking for new jobs](jobbot.png)
-![Job Bot web page showing jobs that I'm looking at](webview.png)
+
+![Job Bot web page showing jobs that I'm looking at](web/webview.png)
